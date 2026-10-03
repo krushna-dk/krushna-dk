@@ -104,7 +104,7 @@ Industrial Training & Internships  (same company, 3 progressive roles)
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" alt="contribution snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/krushna-dk/krushna-dk/output/github-snake.svg" alt="contribution snake" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0B1F3A,50:1F4E79,100:2F81F7&section=footer&animation=fadeIn" alt="footer" width="100%"/>
 
