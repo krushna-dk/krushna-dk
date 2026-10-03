@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B1F3A,50:1F4E79,100:2F81F7&text=Dahihale%20Krishna&fontColor=FFFFFF&fontSize=56&fontAlignY=38&desc=B.Tech%20Student%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Agentic%20AI%20%26%20LLM%20Explorer&descColor=CFE3FF&descSize=20&descAlignY=60&animation=fadeIn" alt="header" width="100%"/>
+<img src="https://raw.githubusercontent.com/krushna-dk/krushna-dk/main/assets/header.svg" width="100%" alt="Dahihale Krishna"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=760&height=45&lines=Building+scalable+MERN+%26+Java+applications;Exploring+LLMs%2C+Transformers+%26+Agentic+AI;State-level+Winner+%7C+Ideathon+Champion;Currently+mastering+Spring+Boot+%26+DSA" alt="typing"/>
 
@@ -42,6 +42,8 @@ public class DahihaleKrishna {
 | 🌱 **Now learning** | Spring Boot · DSA · LLMs · Transformers · Agentic AI |
 | 🎯 **Looking for** | Internships and SDE roles |
 
+<br/>
+
 <img src="https://raw.githubusercontent.com/krushna-dk/krushna-dk/main/assets/divider.svg" width="100%" alt=""/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=0:0B1F3A,100:1F4E79&text=Currently%20Building&fontColor=FFFFFF&fontSize=20&fontAlign=50&fontAlignY=52" width="100%" alt="Currently Building"/>
@@ -51,6 +53,8 @@ public class DahihaleKrishna {
 <img src="https://raw.githubusercontent.com/krushna-dk/krushna-dk/main/assets/currently-building.svg" width="100%" alt="Currently building"/>
 
 </div>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/krushna-dk/krushna-dk/main/assets/divider.svg" width="100%" alt=""/>
 
@@ -77,6 +81,8 @@ public class DahihaleKrishna {
 
 > Core strengths: **Java (Swing, JDBC)** · **AWS (S3, virtual machines)** · **Security (AES, Tiled Bitmap, Blockchain)** · **Dataset creation and labelling** · **Computer-vision based ML**
 
+<br/>
+
 <img src="https://raw.githubusercontent.com/krushna-dk/krushna-dk/main/assets/divider.svg" width="100%" alt=""/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=0:0B1F3A,100:1F4E79&text=Featured%20Projects&fontColor=FFFFFF&fontSize=20&fontAlign=50&fontAlignY=52" width="100%" alt="Featured Projects"/>
@@ -93,6 +99,8 @@ public class DahihaleKrishna {
 | 🧩 **Java Mini Projects (5)** | OOP, collections and file-handling fundamentals | `Java` | ✅ Completed |
 | 🌐 **MERN Projects** | Full-stack web applications | `MongoDB` `Express` `React` `Node` | 🚧 Coming soon |
 
+<br/>
+
 <img src="https://raw.githubusercontent.com/krushna-dk/krushna-dk/main/assets/divider.svg" width="100%" alt=""/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=0:0B1F3A,100:1F4E79&text=Experience&fontColor=FFFFFF&fontSize=20&fontAlign=50&fontAlignY=52" width="100%" alt="Experience"/>
@@ -106,6 +114,8 @@ Industrial Training & Internships  (same company, 3 progressive roles)
         ├─ Dataset creation and labelling
         └─ Java project development
 ```
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/krushna-dk/krushna-dk/main/assets/divider.svg" width="100%" alt=""/>
 
@@ -121,6 +131,6 @@ Industrial Training & Internships  (same company, 3 progressive roles)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0B1F3A,50:1F4E79,100:2F81F7&section=footer&animation=fadeIn" alt="footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/krushna-dk/krushna-dk/main/assets/footer.svg" width="100%" alt=""/>
 
 </div>
